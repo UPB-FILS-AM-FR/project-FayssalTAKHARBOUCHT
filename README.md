@@ -2,44 +2,13 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Système de Détection de Niveau d’Eau</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      font-weight: bold;
-      color: #2c3e50;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    th, td {
-      border: 1px solid #444;
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background-color: #f0f0f0;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-size: 14px;
-    }
-  </style>
 </head>
 <body>
 
   <h1>Système de Détection de Niveau d’Eau</h1>
 
   <h2>Auteur</h2>
-  <p><strong>Votre nom complet ici</strong></p>
+  <p><strong>TAKHARBOUCHT Fayssal </strong></p>
 
   <h2>Description</h2>
   <p>Ce projet Arduino permet de surveiller le niveau d’eau à l’aide d’un capteur analogique. Selon le niveau détecté, des LED s’allument et un buzzer émet un signal sonore pour signaler un niveau critique.</p>
@@ -65,7 +34,6 @@
 
   <h2>Schéma de câblage</h2>
   <p><em>Voir image ci-jointe dans le dossier du projet.</em></p>
-  <img src="A_detailed_digital_illustration_depicts_an_Arduino.png" alt="Schéma de câblage" width="600">
 
   <h2>Composants</h2>
   <table>
@@ -131,3 +99,4 @@
 
 </body>
 </html>
+
